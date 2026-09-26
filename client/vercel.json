@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://agrosphere-z562.onrender.com/api/:path*"
+    }
+  ]
+}
